@@ -1,4 +1,4 @@
 ## Project Euler Writeups
 This repository contains writeups to Project Euler problems.
 
-Link to Project Euler: [Visit Project Euler!](https://www.projecteuler.net)
+[Visit Project Euler!](https://www.projecteuler.net)
